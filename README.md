@@ -24,3 +24,4 @@ Standard therapy fails (Red line), but our **Saturation Attack** strategy (Green
 1. Install dependencies:
    ```bash
    pip install numpy matplotlib pandas
+   https://doi.org/10.5281/zenodo.18007607
